@@ -1,0 +1,26 @@
+
+ 
+ h2 {
+    background-color: rgb(111, 142, 193);
+    color: #ffffff;
+    font-size: 28px;
+    border-radius: 10px;
+  
+
+ }
+
+body{
+  background-image: url(../images/weather.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#weatherp{
+  background-color: rgb(172, 209, 254);
+  font-size: larger;
+  font-weight: bolder;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 5px;
+  border: 1px dashed rgb(151, 220, 239) ;
+  color: rgb(0, 0, 0);
+  }
